@@ -1,6 +1,8 @@
 # Minecraft Inventory System
 Minecraft inventory system in Unity 2D, with minecraft default shortcuts and mouse controls
 
+It is not completed yet
+
 Project creation date: August 5 2022
 
 ![Screenshot_5](https://user-images.githubusercontent.com/117584419/204341755-361ac152-a483-491e-b08e-3c0633bfcbbc.png)
